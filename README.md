@@ -1,2 +1,2 @@
-# sorting
-Various sorting methods
+# DAA Algorithms
+
